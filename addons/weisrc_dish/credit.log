@@ -1,0 +1,450 @@
+array (
+  'payx_score' => 0,
+  'totalprice' => '10.00',
+  'orderid' => '2',
+)
+array (
+  'payx_score' => 1,
+  'totalprice' => '10.00',
+  'orderid' => '4',
+)
+array (
+  'payx_score' => 1,
+  'totalprice' => '10.00',
+  'orderid' => '3',
+)
+array (
+  'payx_score' => 1,
+  'totalprice' => '10.00',
+  'orderid' => '1',
+)
+array (
+  'payx_score' => 1,
+  'totalprice' => '10.00',
+  'orderid' => '5',
+)
+array (
+  'payx_score' => 1,
+  'totalprice' => '90.00',
+  'orderid' => '8',
+)
+array (
+  'payx_score' => 1,
+  'totalprice' => '5.00',
+  'orderid' => '18',
+)
+array (
+  'payx_score' => 1,
+  'totalprice' => '49.00',
+  'orderid' => '28',
+)
+array (
+  'payx_score' => 1,
+  'totalprice' => '84.00',
+  'orderid' => '29',
+)
+array (
+  'payx_score' => 1,
+  'totalprice' => '183.00',
+  'orderid' => '27',
+)
+array (
+  'payx_score' => 1,
+  'totalprice' => '86.00',
+  'orderid' => '26',
+)
+array (
+  'payx_score' => 1,
+  'totalprice' => '102.00',
+  'orderid' => '25',
+)
+array (
+  'payx_score' => 1,
+  'totalprice' => '58.00',
+  'orderid' => '24',
+)
+array (
+  'payx_score' => 1,
+  'totalprice' => '48.00',
+  'orderid' => '23',
+)
+array (
+  'payx_score' => 1,
+  'totalprice' => '5.00',
+  'orderid' => '22',
+)
+array (
+  'payx_score' => 1,
+  'totalprice' => '96.00',
+  'orderid' => '21',
+)
+array (
+  'payx_score' => 1,
+  'totalprice' => '100.00',
+  'orderid' => '20',
+)
+array (
+  'payx_score' => 1,
+  'totalprice' => '70.50',
+  'orderid' => '19',
+)
+array (
+  'payx_score' => 1,
+  'totalprice' => '100.00',
+  'orderid' => '16',
+)
+array (
+  'payx_score' => 1,
+  'totalprice' => '148.00',
+  'orderid' => '15',
+)
+array (
+  'payx_score' => 1,
+  'totalprice' => '146.00',
+  'orderid' => '14',
+)
+array (
+  'payx_score' => 1,
+  'totalprice' => '126.00',
+  'orderid' => '13',
+)
+array (
+  'payx_score' => 1,
+  'totalprice' => '27.50',
+  'orderid' => '12',
+)
+array (
+  'payx_score' => 1,
+  'totalprice' => '700.00',
+  'orderid' => '11',
+)
+array (
+  'payx_score' => 1,
+  'totalprice' => '0.00',
+  'orderid' => '10',
+)
+array (
+  'payx_score' => 1,
+  'totalprice' => '96.00',
+  'orderid' => '9',
+)
+array (
+  'payx_score' => 1,
+  'totalprice' => '114.50',
+  'orderid' => '7',
+)
+array (
+  'payx_score' => 1,
+  'totalprice' => '120.50',
+  'orderid' => '6',
+)
+array (
+  'payx_score' => 1,
+  'totalprice' => '18.00',
+  'orderid' => '30',
+)
+array (
+  'payx_score' => 1,
+  'totalprice' => '28.00',
+  'orderid' => '33',
+)
+array (
+  'payx_score' => 1,
+  'totalprice' => '18.00',
+  'orderid' => '32',
+)
+array (
+  'payx_score' => 1,
+  'totalprice' => '56.00',
+  'orderid' => '31',
+)
+array (
+  'payx_score' => 1,
+  'totalprice' => '38.00',
+  'orderid' => '34',
+)
+array (
+  'payx_score' => 1,
+  'totalprice' => '18.00',
+  'orderid' => '35',
+)
+array (
+  'payx_score' => 1,
+  'totalprice' => '28.00',
+  'orderid' => '36',
+)
+array (
+  'payx_score' => 1,
+  'totalprice' => '12.00',
+  'orderid' => '37',
+)
+array (
+  'payx_score' => 1,
+  'totalprice' => '10.00',
+  'orderid' => '38',
+)
+array (
+  'payx_score' => 1,
+  'totalprice' => '74.00',
+  'orderid' => '56',
+)
+array (
+  'payx_score' => 1,
+  'totalprice' => '88.00',
+  'orderid' => '55',
+)
+array (
+  'payx_score' => 1,
+  'totalprice' => '18.00',
+  'orderid' => '54',
+)
+array (
+  'payx_score' => 1,
+  'totalprice' => '184.00',
+  'orderid' => '71',
+)
+array (
+  'payx_score' => 1,
+  'totalprice' => '116.00',
+  'orderid' => '80',
+)
+array (
+  'payx_score' => 1,
+  'totalprice' => '133.00',
+  'orderid' => '79',
+)
+array (
+  'payx_score' => 1,
+  'totalprice' => '121.00',
+  'orderid' => '74',
+)
+array (
+  'payx_score' => 1,
+  'totalprice' => '197.00',
+  'orderid' => '84',
+)
+array (
+  'payx_score' => 1,
+  'totalprice' => '8.00',
+  'orderid' => '89',
+)
+array (
+  'payx_score' => 1,
+  'totalprice' => '189.00',
+  'orderid' => '88',
+)
+array (
+  'payx_score' => 1,
+  'totalprice' => '194.00',
+  'orderid' => '87',
+)
+array (
+  'payx_score' => 1,
+  'totalprice' => '583.50',
+  'orderid' => '86',
+)
+array (
+  'payx_score' => 1,
+  'totalprice' => '134.00',
+  'orderid' => '85',
+)
+array (
+  'payx_score' => 1,
+  'totalprice' => '49.00',
+  'orderid' => '82',
+)
+array (
+  'payx_score' => 1,
+  'totalprice' => '20.00',
+  'orderid' => '81',
+)
+array (
+  'payx_score' => 1,
+  'totalprice' => '137.00',
+  'orderid' => '78',
+)
+array (
+  'payx_score' => 1,
+  'totalprice' => '398.00',
+  'orderid' => '76',
+)
+array (
+  'payx_score' => 1,
+  'totalprice' => '124.00',
+  'orderid' => '75',
+)
+array (
+  'payx_score' => 1,
+  'totalprice' => '1200.00',
+  'orderid' => '73',
+)
+array (
+  'payx_score' => 1,
+  'totalprice' => '1030.00',
+  'orderid' => '72',
+)
+array (
+  'payx_score' => 1,
+  'totalprice' => '122.00',
+  'orderid' => '91',
+)
+array (
+  'payx_score' => 1,
+  'totalprice' => '156.00',
+  'orderid' => '93',
+)
+array (
+  'payx_score' => 1,
+  'totalprice' => '5.00',
+  'orderid' => '108',
+)
+array (
+  'payx_score' => 1,
+  'totalprice' => '28.00',
+  'orderid' => '100',
+)
+array (
+  'payx_score' => 1,
+  'totalprice' => '263.00',
+  'orderid' => '92',
+)
+array (
+  'payx_score' => 1,
+  'totalprice' => '78.00',
+  'orderid' => '94',
+)
+array (
+  'payx_score' => 1,
+  'totalprice' => '114.00',
+  'orderid' => '96',
+)
+array (
+  'payx_score' => 1,
+  'totalprice' => '28.00',
+  'orderid' => '111',
+)
+array (
+  'payx_score' => 1,
+  'totalprice' => '320.00',
+  'orderid' => '107',
+)
+array (
+  'payx_score' => 1,
+  'totalprice' => '119.00',
+  'orderid' => '109',
+)
+array (
+  'payx_score' => 1,
+  'totalprice' => '24.00',
+  'orderid' => '116',
+)
+array (
+  'payx_score' => 1,
+  'totalprice' => '58.00',
+  'orderid' => '110',
+)
+array (
+  'payx_score' => 1,
+  'totalprice' => '270.00',
+  'orderid' => '105',
+)
+array (
+  'payx_score' => 1,
+  'totalprice' => '198.50',
+  'orderid' => '114',
+)
+array (
+  'payx_score' => 1,
+  'totalprice' => '183.00',
+  'orderid' => '132',
+)
+array (
+  'payx_score' => 1,
+  'totalprice' => '200.00',
+  'orderid' => '131',
+)
+array (
+  'payx_score' => 1,
+  'totalprice' => '256.00',
+  'orderid' => '103',
+)
+array (
+  'payx_score' => 1,
+  'totalprice' => '128.00',
+  'orderid' => '129',
+)
+array (
+  'payx_score' => 1,
+  'totalprice' => '96.00',
+  'orderid' => '128',
+)
+array (
+  'payx_score' => 1,
+  'totalprice' => '28.00',
+  'orderid' => '134',
+)
+array (
+  'payx_score' => 1,
+  'totalprice' => '94.00',
+  'orderid' => '135',
+)
+array (
+  'payx_score' => 1,
+  'totalprice' => '5.00',
+  'orderid' => '142',
+)
+array (
+  'payx_score' => 1,
+  'totalprice' => '38.00',
+  'orderid' => '141',
+)
+array (
+  'payx_score' => 1,
+  'totalprice' => '28.00',
+  'orderid' => '140',
+)
+array (
+  'payx_score' => 1,
+  'totalprice' => '172.00',
+  'orderid' => '139',
+)
+array (
+  'payx_score' => 1,
+  'totalprice' => '263.00',
+  'orderid' => '143',
+)
+array (
+  'payx_score' => 1,
+  'totalprice' => '18.00',
+  'orderid' => '146',
+)
+array (
+  'payx_score' => 1,
+  'totalprice' => '108.00',
+  'orderid' => '145',
+)
+array (
+  'payx_score' => 1,
+  'totalprice' => '5.00',
+  'orderid' => '147',
+)
+array (
+  'payx_score' => 1,
+  'totalprice' => '1.00',
+  'orderid' => '502',
+)
+array (
+  'payx_score' => 1,
+  'totalprice' => '70.00',
+  'orderid' => '532',
+)
+array (
+  'payx_score' => 1,
+  'totalprice' => '12.00',
+  'orderid' => '531',
+)
+array (
+  'payx_score' => 1,
+  'totalprice' => '1.00',
+  'orderid' => '502',
+)

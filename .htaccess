@@ -1,0 +1,5 @@
+RewriteEngine on
+RewriteBase /
+RewriteRule ^data/(.*).(php)$ – [F]
+RewriteRule ^attachment/(.*).(php)$ – [F]
+RewriteRule ^.htaccess$ – [F]

@@ -1,0 +1,55 @@
+{template 'public/header'}
+{template 'public/comhead'}
+<div class="main">
+    
+    <div class="panel panel-default" style="float: left;">
+        <form action="" method="post" class="form-horizontal form">
+            <div class="table-responsive panel-body">
+                <table class="table table-hover">
+                    <thead class="navbar-inner">
+                    <tr>
+                        <th style="width:8%;">编号</th>
+                        <th style="width:8%;">会员卡id</th>
+                        <th style="width:12%;">会员卡号</th>
+                        <th style="width:8%;">金额</th>
+                        <th style="width:8%;">操作人id</th>
+                        <th style="width:8%;">订单id</th>
+                        <th style="">添加时间</th>
+
+                    </tr>
+                    </thead>
+                    <tbody id="level-list">
+                    {loop $list $item}
+                    <tr>
+                        <td>{$item['id']}</td>
+                        <td>
+                            {$item['cid']}
+                        </td>
+                        <td>
+                            {$item['num']}
+                        </td>
+ 
+                        <td>
+                            {$item['price']}
+                        </td>
+                        
+                        <td>
+                            {$item['action_id']}
+                        </td>
+                         <td>
+                            {$item['order_id']}
+                        </td>
+                        <td>
+                            {$item['created_at']}
+                        </td>
+                        
+                    </tr>
+                    {/loop}
+                    </tbody>
+                </table>
+                {$pager}
+            </div>
+        </form>
+    </div>
+</div>
+{template 'public/footer'}
